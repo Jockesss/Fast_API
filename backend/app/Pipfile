@@ -1,0 +1,24 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pymongo = "*"
+python-dotenv = "*"
+load-dotenv = "*"
+requests = "*"
+django = "*"
+pydantic = "*"
+jwt = "*"
+fastapi = "*"
+bcrypt = "*"
+passlib = "*"
+pyjwt = "*"
+httpx = "*"
+uvicorn = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"
