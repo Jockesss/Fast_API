@@ -1,6 +1,7 @@
 # kakao_map
 
-# start application
+
+# Start application
 
 Frontend: npm start
 
